@@ -5,3 +5,6 @@
 	path = Vault
 	url = https://github.com/Swarnim-Chandve/Vault.git
 	branch = master
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/Swarnim-Chandve/escrow.git

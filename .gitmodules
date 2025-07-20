@@ -8,6 +8,6 @@
 [submodule "escrow"]
 	path = escrow
 	url = https://github.com/Swarnim-Chandve/escrow.git
-[submodule "modules/amm"]
-	path = modules/amm
+[submodule "amm"]
+	path = amm
 	url = https://github.com/Swarnim-Chandve/Amm.git

@@ -11,3 +11,6 @@
 [submodule "amm"]
 	path = amm
 	url = https://github.com/Swarnim-Chandve/Amm.git
+[submodule "nft-staking"]
+	path = nft-staking
+	url = https://github.com/Swarnim-Chandve/nft-staking.git

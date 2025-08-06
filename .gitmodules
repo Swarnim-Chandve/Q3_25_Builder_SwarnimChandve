@@ -17,6 +17,3 @@
 [submodule "marketplace"]
 	path = marketplace
 	url = https://github.com/Swarnim-Chandve/Marketplace.git
-[submodule "Capstone"]
-	path = Capstone
-	url = https://github.com/Swarnim-Chandve/Capstone.git

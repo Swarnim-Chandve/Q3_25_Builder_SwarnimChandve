@@ -20,3 +20,6 @@
 [submodule "Capstone"]
 	path = Capstone
 	url = https://github.com/Swarnim-Chandve/Capstone.git
+[submodule "Quadratic-Voting"]
+	path = Quadratic-Voting
+	url = https://github.com/Swarnim-Chandve/Quadratic-Voting.git
